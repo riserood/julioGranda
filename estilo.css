@@ -1,0 +1,130 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #0b1822; /*COLOR DE FONDO*/
+	
+}
+#contenido{
+	background-image: url(http://ludos-paradise.ancorathemes.com/wp-content/uploads/2018/01/bg-9-copyright-3.jpg) !important;
+
+	background-repeat: no-repeat; /*REPETICION DE FONDO*/
+}
+h4 {
+	color:white;
+	text-transform: u
+}
+h5, a, p{
+	color: white;
+}
+.letra-adentro a{
+	font-family: "Spectral SC",serif;
+    font-size: 1.765em; 
+    text-transform: uppercase;
+}
+
+.bg-barra {
+	background-color: #1a202e;
+	color: #50A5B4;
+
+}
+.articulo {
+	display: absolute;
+	padding-top: 15.35rem;
+    padding-bottom: 3.25rem;
+    background-repeat: no-repeat;
+    display: block;
+    
+    padding-right: 1.75em;
+	
+}
+.slider-padre {
+	position: relative;
+
+
+
+}
+.slider-hijo {
+	position: absolute;
+	top: 30px;
+	left: 40px;
+}
+
+.boton-hijo1 {
+	position: absolute;
+	top:20px;
+	left: 790px;
+}
+.boton-hijo2 {
+	position: absolute;
+	top:260px;
+	left: 790px;
+}
+.letra{
+	position: relative;
+	text-transform: uppercase;
+
+}
+.marco1 {
+	border: 1px #535b70 solid;
+}
+.mes {
+	text-align: left;
+	padding-left: 0;
+}
+.imagen-centrada{
+	padding-left: 33px;
+	padding-top: 25px;
+	
+
+}
+.imagen-fondo{
+	margin-right: 130px;
+	width: 180px;
+	height: 80px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	background-image: url(http://ludos-paradise.ancorathemes.com/wp-content/uploads/2017/12/logo-bg.png?id=544) !important;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+
+}
+.marco-titulo{
+	border: 1px solid #334459;
+	padding: 15px;
+	margin-bottom: 10px;
+	background: url(http://ludos-paradise.ancorathemes.com/wp-content/themes/ludos-paradise/images/top-header.jpg);
+}
+.marco{
+	border: 1px solid #334459;
+	padding-right: 0;
+	padding-left: 0;
+}
+.between{
+	justify-content: space-between;
+}
+.marco-imagen{
+	border-top: solid 1.5px #334459;
+	padding-top: 20px;
+}
+#nuevo .marco-titulo{
+	margin: 0;
+}
+#locaso{
+	 background: url(http://ludos-paradise.ancorathemes.com/wp-content/uploads/2018/01/bg-20.png?id=486);
+
+}
+#nuevo p {
+	text-align: center;
+}
+.col-3{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#ultimo{
+	background-color: #141a22;
+	color: #9cabb9;
+}
+.centrado{
+	padding-left: 50px;
+}
